@@ -60,10 +60,3 @@ F(s) = α · error(s) + (1 − α) · (number of selected features / total featu
 All experiments use stratified 10-fold cross-validation to preserve class distributions.
 
 ---
-
-## Installation
-
-```bash
-git clone https://github.com/yourusername/RGS.git
-cd RGS
-pip install -r requirements.txt
