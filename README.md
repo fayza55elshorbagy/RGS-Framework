@@ -22,7 +22,7 @@ By decoupling feature learning from classification, RGS reduces high-dimensional
 The overall pipeline of the proposed RGS framework is illustrated below.
 
 <p align="center">
-  <img src="rgs_framework.pdf" width="350">
+  <img src="rgs_framework.jpg" width="350">
 </p>
 
 ---
