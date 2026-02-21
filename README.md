@@ -36,7 +36,7 @@ GWO is employed as a binary wrapper-based feature selection method. Each wolf re
 
 | Parameter | Symbol | Value |
 |--------|--------|------|
-| Population size | N | 30 |
+| Population size | N | 10 |
 | Maximum iterations | t_max | 10 |
 | Feature dimension | D | 2048 |
 | Fitness weight | α | 0.99 |
