@@ -1,0 +1,15 @@
+Database.csv
+X shape is  (3408, 2048)
+Y shape is  (3408,)
+[0. 0. 0. ... 0. 0. 0.]
+[7.0711694 2.908215  0.1662305 ... 1.1004549 1.0697798 1.6832656]
+
+ iteration  0
+[4;33mReloaded modules[24m: FS, FS.functionHO, FS.hho[0m
+Database.csv
+X shape is  (3408, 2048)
+Y shape is  (3408,)
+[0. 0. 0. ... 0. 0. 0.]
+[7.0711694 2.908215  0.1662305 ... 1.1004549 1.0697798 1.6832656]
+
+ iteration  0

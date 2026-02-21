@@ -1,0 +1,116 @@
+Database.csv
+X shape is  (3408, 2048)
+Y shape is  (3408,)
+[0. 0. 0. ... 0. 0. 0.]
+[7.0711694 2.908215  0.1662305 ... 1.1004549 1.0697798 1.6832656]
+
+ iteration  0
+Iteration: 1
+Best (PSO): 0.15496582031249997
+Iteration: 2
+Best (PSO): 0.147331306703629
+Iteration: 3
+Best (PSO): 0.147331306703629
+Iteration: 4
+Best (PSO): 0.14343104208669352
+Iteration: 5
+Best (PSO): 0.14343104208669352
+time 2.941 s
+Accuracy: 86.02150537634408
+accuracy_score= 0.8602150537634409
+f1_score= 0.8214731585518102
+roc_auc= 0.8508975574014638
+ Precision: 0.8392857142857143
+recall: 0.80440097799511
+Specificity :  0.80440097799511
+kappa: 0.7066987190411556
+Feature Size: 1033
+
+ iteration  1
+Iteration: 1
+Best (PSO): 0.14622196320564515
+Iteration: 2
+Best (PSO): 0.13556703629032257
+Iteration: 3
+Best (PSO): 0.13550355972782258
+Iteration: 4
+Best (PSO): 0.13550355972782258
+Iteration: 5
+Best (PSO): 0.13550355972782258
+time 2.661 s
+Accuracy: 86.80351906158357
+accuracy_score= 0.8680351906158358
+f1_score= 0.8327137546468403
+roc_auc= 0.8602693468617347
+ Precision: 0.8442211055276382
+recall: 0.8215158924205379
+Specificity :  0.8215158924205379
+kappa: 0.7237883427300564
+Feature Size: 995
+
+ iteration  2
+Iteration: 1
+Best (PSO): 0.15388089087701612
+Iteration: 2
+Best (PSO): 0.1480646736391129
+Iteration: 3
+Best (PSO): 0.1480646736391129
+Iteration: 4
+Best (PSO): 0.1344723412298387
+Iteration: 5
+Best (PSO): 0.1344723412298387
+time 2.577 s
+Accuracy: 86.90127077223852
+accuracy_score= 0.8690127077223851
+f1_score= 0.8357843137254902
+roc_auc= 0.8631244873091595
+ Precision: 0.8378378378378378
+recall: 0.8337408312958435
+Specificity :  0.8337408312958435
+kappa: 0.7268423129192056
+Feature Size: 982
+
+ iteration  3
+Iteration: 1
+Best (PSO): 0.1452639868951613
+Iteration: 2
+Best (PSO): 0.1452639868951613
+Iteration: 3
+Best (PSO): 0.1414516129032258
+Iteration: 4
+Best (PSO): 0.1414516129032258
+Iteration: 5
+Best (PSO): 0.1414516129032258
+time 2.744 s
+Accuracy: 86.21700879765396
+accuracy_score= 0.8621700879765396
+f1_score= 0.8239700374531836
+roc_auc= 0.8529343835365514
+ Precision: 0.8418367346938775
+recall: 0.8068459657701712
+Specificity :  0.8068459657701712
+kappa: 0.7108008348587618
+Feature Size: 1024
+
+ iteration  4
+Iteration: 1
+Best (PSO): 0.15593844506048385
+Iteration: 2
+Best (PSO): 0.14622684601814515
+Iteration: 3
+Best (PSO): 0.14622684601814515
+Iteration: 4
+Best (PSO): 0.14622684601814515
+Iteration: 5
+Best (PSO): 0.14622684601814515
+time 2.654 s
+Accuracy: 85.72825024437928
+accuracy_score= 0.8572825024437928
+f1_score= 0.8206388206388207
+roc_auc= 0.8504953688586605
+ Precision: 0.8246913580246914
+recall: 0.8166259168704156
+Specificity :  0.8166259168704156
+kappa: 0.7021370794045854
+Feature Size: 1011
+[4;33mReloaded modules[24m: FS, FS.functionHO, FS.pso[0m
